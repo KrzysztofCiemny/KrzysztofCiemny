@@ -2,7 +2,7 @@
 
 ## **Hello 👋, I'm Krzysztof**
 
-### I'm a self-taught FrontEnd developer from Poland :heart:
+### I'm a self-taught FrontEnd developer from Poland ❤️‍🔥
 
 </div>
 
@@ -10,7 +10,7 @@
 
 #### About me:
 
-- Junior FrontEnd developer at EzyImpact 🌱
+- Junior FrontEnd developer at Ezy Impact 🌱
 - My goal is to create beautiful and intuitive interfaces ⚡
 - I'm interested in programming, music and sports :earth_americas:
 
