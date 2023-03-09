@@ -10,7 +10,7 @@
 
 #### About me:
 
-- Junior FrontEnd developer at Ezy Impact 🌱
+- Junior FrontEnd developer at EZY Impact 🌱
 - My goal is to create beautiful and intuitive interfaces ⚡
 - I'm interested in programming, music and sports :earth_americas:
 
